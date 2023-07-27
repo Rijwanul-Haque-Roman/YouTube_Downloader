@@ -4,7 +4,7 @@ Welcome to the YouTube Downloader! This simple application allows you to downloa
 
 ## **System Requirements**
 + Windows, macOS, or Linux operating system
-+ Python 3 installed on your computer (you can download Python from https://www.python.org/downloads/)
++ Python 3 installed on your computer\ (you can download Python from https://www.python.org/downloads/)
 
 ## **Getting Started**
 Make sure you have Python 3 installed on your computer. If you don't have it installed, visit https://www.python.org/downloads/ to download and install Python.
